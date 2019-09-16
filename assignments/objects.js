@@ -64,13 +64,13 @@ const Antonietta = {
 // Once your objects are created, log out the following requests from HR into the console:
 
 // Mitzi's name
-console.log (Mitzi)
+console.log (Mitzi.name)
 // Kennan's ID
-console.log  (Kennan);
+console.log  (Kennan.id);
 // Keven's email
-console.log (Keven);
+console.log (Keven.email);
 // Gannie's name
-console.log (Gannie);
+console.log (Gannie.name);
 // Antonietta's Gender
 
 // ==== Challenge 3: Object Methods ==== 
